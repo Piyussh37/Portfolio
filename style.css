@@ -40,7 +40,7 @@
     font-size: 1.2em;
     color: #00aaff;
     white-space: nowrap;
-    cursor-typed: none;
+    cursor: none;
 }
 
 @keyframes fadeInUp {
